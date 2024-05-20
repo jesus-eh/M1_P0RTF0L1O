@@ -1,0 +1,30 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+html
+{
+  padding: 4%;
+}
+
+table, form
+{
+  margin: 0 auto;
+  border: 1px solid rgba(150,150,150,1);
+  box-shadow: 0 0 10px 0 rgba(150,150,150,1);
+  background-color: aquamarine;
+}
+
+table tr td
+{
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid rgba(150,150,150,1);
+}
+
+#seleccionColores
+{
+  width: 200px;
+}
